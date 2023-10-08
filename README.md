@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @netcam22
 - 👀 I’m interested in JavaScript and React
 - 🌱 I’m currently learning more about JavaScript, TypeScript and React
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
 <!---
