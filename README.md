@@ -8,6 +8,7 @@
 - ✨ Languages: JavaScript, TypeScript,  HTML, CSS, PHP, MySQL
 - ✨ Libraries, frameworks and environments:  React, BEM, SASS, LESS, Node.js, Fabric.js, CodeIgniter, FPDF, Jest, Vitest
 - ✨ Design skills: Ability to create visually interesting and responsive designs
+- 🚀 Please try out my Mars-rover desktop application in the website link
 - ✨ UML: Competence in producing diagrams based on system design and user requirements
 - 📫 You can reach me at annettelesage@btinternet.com
 
