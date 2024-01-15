@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Annette
 - 👀 I’ve recently completed a 13-week full stack upskilling programme focused on recent developments in TypeScript, JavaScript and React
 - 👀 Upgrading my understanding of React to incoporate functional components and hooks has been fascinating
-- 🌱 I am now experimenting with vue.js to extend my JavaScript Library and Framework knowledge
+- 🌱 I am currently experimenting with vue.js to extend my JavaScript Library and Framework knowledge
 - 🌱 I enjoy transforming user stories into visually appealing, logical digital solutions
 - 💞️ I would welcome the opportunity to expand my technical skills with an organisation that values team work and creative thinking
 - ✨ My art backgound and degree in Illustration, alongside my Masters Degree in Computing and IT are key influences in my practice as a developer
