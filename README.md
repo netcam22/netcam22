@@ -3,6 +3,7 @@
 - 👀 Upgrading my understanding of React to incoporate functional components and hooks has been fascinating
 - 🌱 I am currently experimenting with vue.js to extend my JavaScript Library and Framework knowledge
 - 🌱 I enjoy transforming user stories into visually appealing, logical digital solutions
+- 🌱 I love collaborating with teams of developers
 - 💞️ I would welcome the opportunity to expand my technical skills with an organisation that values team work and creative thinking
 - ✨ My art backgound and degree in Illustration, alongside my Masters Degree in Computing and IT are key influences in my practice as a developer
 - ✨ Languages: JavaScript, TypeScript,  HTML, CSS, PHP, MySQL
