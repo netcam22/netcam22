@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Annette
+👋 Hello, I’m Annette
 - 
 - 💞️  I’ve recently completed a 13-week full stack upskilling programme focused on recent developments in TypeScript, JavaScript and React
 - 💞️ I would welcome the opportunity to expand my technical skills with an organisation that values team work and creative thinking
