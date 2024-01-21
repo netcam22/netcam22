@@ -5,10 +5,10 @@
    
 - 👀 Upgrading my understanding of React to incoporate functional components and hooks has been fascinating
 - 👀 I am currently experimenting with vue.js to extend my JavaScript Library and Framework knowledge
-- 
+ 
 - 🌱 I enjoy transforming user stories into visually appealing, logical digital solutions
 - 🌱 I love collaborating with teams of developers
-- 
+ 
 - ✨ Languages: JavaScript, TypeScript,  HTML, CSS, PHP, MySQL
 - ✨ Libraries, frameworks and environments:  React, BEM, SASS, LESS, Node.js, Fabric.js, CodeIgniter, FPDF, Jest, Vitest
 - ✨ Design skills: Ability to create visually interesting and responsive designs
