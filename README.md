@@ -1,7 +1,7 @@
 👋 Hello, I’m Annette
  
-- 💞️  I’ve recently completed a 13-week full stack upskilling programme focused on recent developments in TypeScript, JavaScript and React
-- 💞️ I would welcome the opportunity to expand my technical skills with an organisation that values team work and creative thinking
+💞️ I’ve recently completed a 13-week full stack upskilling programme focused on recent developments in TypeScript, JavaScript and React
+💞️ I would welcome the opportunity to expand my technical skills with an organisation that values team work and creative thinking
    
 - 👀 Upgrading my understanding of React to incoporate functional components and hooks has been fascinating
 - 👀 I am currently experimenting with vue.js to extend my JavaScript Library and Framework knowledge
