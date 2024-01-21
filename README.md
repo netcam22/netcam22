@@ -14,7 +14,7 @@
 - 👋 Here are some examples of my latest front end developer projects:
 - 👾 Star Wars BEM and OOCSS cards https://netcam22.github.io/lm-lab-css-bem/
 - 🚀 Mars-rover JavaScript and TypeScript desktop application: https://netcam22.github.io/mars-rover/public/
-- 🚀 Fakelandia React project: https://fakelandia-vite.pages.dev/
+- 🥗 Fakelandia React project: https://fakelandia-vite.pages.dev/
 - 🙂 Vanilla CSS project: https://netcam22.github.io/css-key-concepts/
 - 😺 Flexbox Responsive design page with Cat API data: https://netcam22.github.io/css-key-concepts-responsive-design/
 - 📫 You can reach me at annettelesage@btinternet.com
