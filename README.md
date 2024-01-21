@@ -1,4 +1,4 @@
-👋 Hello, I’m Annette
+🙂 Hello, I’m Annette
  
 - 💞️ I’ve recently completed a 13-week full stack upskilling programme focused on recent developments in TypeScript, JavaScript and React
 - 💞️ I would welcome the opportunity to expand my technical skills with an organisation that values team work and creative thinking
@@ -14,8 +14,8 @@
 - 👋 Here are some examples of my latest front end developer projects:
 - 🚀 Star Wars BEM and OOCSS cards https://netcam22.github.io/lm-lab-css-bem/
 - 🚀 Mars-rover JavaScript and TypeScript desktop application: https://netcam22.github.io/mars-rover/public/
-- 👀 Vanilla CSS project: https://netcam22.github.io/css-key-concepts/
-- 👀 Flexbox Responsive design page with Cat API data: https://netcam22.github.io/css-key-concepts-responsive-design/
+- 🙂 Vanilla CSS project: https://netcam22.github.io/css-key-concepts/
+- 😺 Flexbox Responsive design page with Cat API data: https://netcam22.github.io/css-key-concepts-responsive-design/
 - 📫 You can reach me at annettelesage@btinternet.com
 
 <!---
