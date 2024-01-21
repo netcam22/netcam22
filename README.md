@@ -15,9 +15,14 @@
 - ✨ UML: Competence in producing diagrams based on system design and user requirements
 
 -  👋 My art backgound and degree in Illustration, alongside my Masters Degree in Computing and IT are key influences in my practice as a developer
+
+-  👋 Here are some examples of my latest front developer end projects:
+
+- 🚀 Star Wars BEM and OOCSS cards https://netcam22.github.io/lm-lab-css-bem/
  
-- 🚀 Mars-rover desktop application:
-https://netcam22.github.io/mars-rover/public/
+- 🚀 Mars-rover JavaScript and TypeScript desktop application: https://netcam22.github.io/mars-rover/public/
+
+- 👀 Vanilla CSS project: https://netcam22.github.io/css-key-concepts/
 
 - 📫 You can reach me at annettelesage@btinternet.com
 
