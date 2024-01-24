@@ -16,7 +16,7 @@
 - 🚀 Mars-rover JavaScript and TypeScript desktop application: https://netcam22.github.io/mars-rover/public/
 - 🥗 Fakelandia React project: https://fakelandia-vite.pages.dev/
 - 🙂 Vanilla CSS project: https://netcam22.github.io/css-key-concepts/
-- 😺 Flexbox Responsive design page with Cat API data: https://netcam22.github.io/css-key-concepts-responsive-design/
+- 😺 SuperHeroes Top Trumps Group project where I used my CSS skills: https://superheroes-9hk.pages.dev/
 - 📫 You can reach me at annettelesage@btinternet.com
 
 <!---
