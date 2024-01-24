@@ -11,12 +11,12 @@
 - ✨ Design skills: Ability to create visually interesting and responsive designs
 - ✨ UML: Competence in producing diagrams based on system design and user requirements
 - 👋 My art backgound and degree in Illustration, alongside my Masters Degree in Computing and IT are key influences in my practice as a developer
-- 👋 Here are some examples of my latest front end developer projects:
+- 👋 Here are some examples of my latest front end developer projects from our upskilling programme:
 - 👾 Star Wars BEM and OOCSS cards https://netcam22.github.io/lm-lab-css-bem/
 - 🚀 Mars-rover JavaScript and TypeScript desktop application: https://netcam22.github.io/mars-rover/public/
 - 🥗 Fakelandia React project: https://fakelandia-vite.pages.dev/
 - 🙂 Vanilla CSS project: https://netcam22.github.io/css-key-concepts/
-- 🤖 And last but definitely not least..... SuperHeroes Top Trumps Group project where I contributed my css and animation skills: https://superheroes-9hk.pages.dev/
+- 🤖 And last but definitely not least..... SuperHeroes Top Trumps Group project to which I contributed my css and animation skills: https://superheroes-9hk.pages.dev/
 - 📫 You can reach me at annettelesage@btinternet.com
 
 <!---
