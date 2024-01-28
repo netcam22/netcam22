@@ -12,8 +12,8 @@
 - ✨ UML: Competence in producing diagrams based on system design and user requirements
 - 👋 My art backgound and degree in Illustration, alongside my Masters Degree in Computing and IT are key influences in my practice as a developer
 - 👋 Here are some examples of my latest front end developer projects from our upskilling programme:
-- 👾 Star Wars BEM and OOCSS cards https://netcam22.github.io/lm-lab-css-bem/
-- 🚀 Mars-rover JavaScript and TypeScript interactive desktop application: https://netcam22.github.io/mars-rover/public/
+- 👾 BEM Wars cards with a Star Wars theme using BEM and SASS https://netcam22.github.io/lm-lab-css-bem/
+- 🚀 Mars Rover JavaScript and TypeScript interactive desktop application: https://netcam22.github.io/mars-rover/public/
 - 🥗 Fakelandia React project developed using Mobile First principles, BEM and SASS: https://fakelandia-vite.pages.dev/
 - 🙂 Vanilla CSS project: https://netcam22.github.io/css-key-concepts/
 - 🤖 And last but definitely not least... Top Trumps group project using Superheroes API data, to which I contributed my css and css animation skills using BEM and LESS: https://superheroes-9hk.pages.dev/
