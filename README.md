@@ -13,10 +13,10 @@
 - 👋 My art backgound and degree in Illustration, alongside my Masters Degree in Computing and IT are key influences in my practice as a developer
 - 👋 Here are some examples of my latest front end developer projects from our upskilling programme:
 - 👾 Star Wars BEM and OOCSS cards https://netcam22.github.io/lm-lab-css-bem/
-- 🚀 Mars-rover JavaScript and TypeScript desktop application: https://netcam22.github.io/mars-rover/public/
-- 🥗 Fakelandia React project: https://fakelandia-vite.pages.dev/
+- 🚀 Mars-rover JavaScript and TypeScript interactive desktop application: https://netcam22.github.io/mars-rover/public/
+- 🥗 Fakelandia React project developed using Mobile First principles, BEM and SASS: https://fakelandia-vite.pages.dev/
 - 🙂 Vanilla CSS project: https://netcam22.github.io/css-key-concepts/
-- 🤖 And last but definitely not least..... SuperHeroes Top Trumps Group project to which I contributed my css and animation skills: https://superheroes-9hk.pages.dev/
+- 🤖 And last but definitely not least... Top Trumps group project using Superheroes API data, to which I contributed my css and css animation skills using BEM and LESS: https://superheroes-9hk.pages.dev/
 - 📫 You can reach me at annettelesage@btinternet.com
 
 <!---
