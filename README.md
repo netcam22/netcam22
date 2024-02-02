@@ -12,7 +12,7 @@
 - ✨ UML: Competence in producing diagrams based on system design and user requirements
 - 👋 My art backgound and degree in Illustration, alongside my Masters Degree in Computing and IT are key influences in my practice as a developer
 - 👋 Here are some examples of my latest front end developer projects:
-- 🌱 Vue 3 Reusable Components Demo Project using the Composition API, Vue Router and Pinia: https://vue-demo-project.pages.dev/
+- 🌱 Vue 3 Reusable Components Demo Project using the Composition API, Vue Router, Pinia, BEM, SASS and Canvas.js: https://vue-demo-project.pages.dev/
 - 🥗 Fakelandia React project developed using Mobile First principles, BEM and SASS: https://fakelandia-vite.pages.dev/
 - 🚀 Mars Rover JavaScript and TypeScript interactive desktop application: https://netcam22.github.io/mars-rover/public/
 - 👾 BEM Wars cards with a Star Wars theme using BEM and SASS https://netcam22.github.io/lm-lab-css-bem/
