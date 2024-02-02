@@ -7,7 +7,7 @@
 - 🌱 I enjoy transforming user stories into visually appealing, logical digital solutions
 - 🌱 I love collaborating with teams of developers
 - ✨ Languages: JavaScript, TypeScript,  HTML, CSS, PHP, MySQL
-- ✨ Libraries, frameworks and environments:  React, BEM, SASS, LESS, Node.js, Fabric.js, CodeIgniter, FPDF, Jest, Vitest
+- ✨ Libraries, frameworks and environments:  React, BEM, SASS, LESS, Vue, Node.js, Fabric.js, CodeIgniter, FPDF, Jest, Vitest
 - ✨ Design skills: Ability to create visually interesting and responsive designs
 - ✨ UML: Competence in producing diagrams based on system design and user requirements
 - 👋 My art backgound and degree in Illustration, alongside my Masters Degree in Computing and IT are key influences in my practice as a developer
